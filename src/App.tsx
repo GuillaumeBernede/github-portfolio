@@ -2,23 +2,23 @@ import React, {useState, useEffect} from "react";
 import {
   Main,
   Timeline,
-  Expertise,
+  AboutMe,
   Project,
-  Contact,
   Navigation,
   Footer,
+  Expertise,
 } from "./components";
 import FadeIn from './components/FadeIn';
 import './index.scss';
 
 function App() {
-    const [mode, setMode] = useState<string>('dark');
+    const [mode, setMode] = useState<"light" | "dark">("light");
 
     const handleModeChange = () => {
-        if (mode === 'dark') {
-            setMode('light');
-        } else {
+        if (mode === 'light') {
             setMode('dark');
+        } else {
+            setMode('light');
         }
     }
 
@@ -31,10 +31,10 @@ function App() {
         <Navigation parentToChild={{mode}} modeChange={handleModeChange}/>
         <FadeIn transitionDuration={700}>
             <Main/>
-            <Expertise/>
+            <AboutMe/>
             <Timeline/>
             <Project/>
-            <Contact/>
+            <Expertise mode={mode} />
         </FadeIn>
         <Footer />
     </div>
