@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/github-portfolio/static/css/main.0c734468.css",
+    "main.js": "/github-portfolio/static/js/main.7b7b77a6.js",
+    "static/js/453.b05d8aa5.chunk.js": "/github-portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/profile_picture.png": "/github-portfolio/static/media/profile_picture.0b63c9caafaeddbc47b8.png",
+    "static/media/bg-light.png": "/github-portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/github-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock10.png": "/github-portfolio/static/media/mock10.c47d06a0e09174636578.png",
+    "static/media/mock09.png": "/github-portfolio/static/media/mock09.f09add4ad0d9521f401d.png",
+    "static/media/mock07.png": "/github-portfolio/static/media/mock07.a5f6b750b849315e06fa.png",
+    "static/media/mock08.png": "/github-portfolio/static/media/mock08.8ef38002f7bfed0c3c6a.png",
+    "static/media/poliwhite.png": "/github-portfolio/static/media/poliwhite.0010c8f63fe6c2ceb799.png",
+    "static/media/corneil_logo.png": "/github-portfolio/static/media/corneil_logo.1bbd7e9471a2d532a8b8.png",
+    "static/media/ensealogo.png": "/github-portfolio/static/media/ensealogo.5ec33b0cc39c40a028b7.png",
+    "static/media/polilogo.png": "/github-portfolio/static/media/polilogo.d9ee029d6b8e9f417587.png",
+    "index.html": "/github-portfolio/index.html",
+    "main.0c734468.css.map": "/github-portfolio/static/css/main.0c734468.css.map",
+    "main.7b7b77a6.js.map": "/github-portfolio/static/js/main.7b7b77a6.js.map",
+    "453.b05d8aa5.chunk.js.map": "/github-portfolio/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c734468.css",
+    "static/js/main.7b7b77a6.js"
+  ]
+}
