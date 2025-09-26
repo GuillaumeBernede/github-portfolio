@@ -21,7 +21,7 @@ function Main() {
             <a href="mailto:guillaume.bernede28@gmail.com"><EmailIcon/></a>
           </div>
           <h1>Guillaume Bernède</h1>
-          <p>Master’s Student in Computer Science and Engineering| AI Engineering </p>
+          <p>Master’s Student in Computer Science and Engineering (<b>Politecnico di Milano</b>) | Engineering Student at <b>ENSEA</b>, major in Signal and AI</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/GuillaumeBernede" target="_blank" rel="noreferrer"><GitHubIcon/></a>

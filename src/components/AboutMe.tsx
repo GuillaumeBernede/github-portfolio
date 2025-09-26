@@ -59,7 +59,7 @@ function Contact() {
                         </a>.</p>
           <p>Through my engineering degree at  <a href="https://www.ensea.fr/en/" target="_blank" rel="noopener noreferrer">
                                 ENSEA
-                        </a> (France), I also gained a solid background in <b>electronics, embedded systems, and signal processing</b>.</p>
+                        </a> (France), I also gained a solid background in <b>electronics, embedded systems, signal processing and AI</b>.</p>
           <p>I am eager to apply my knowledge to impactful and innovative projects, and I am always curious to learn new technologies and approaches.</p>
           <p>Outside academics, I’m passionate about sports — I was actively involved in my school’s sports association, where I organized volleyball activities. I also used to play rugby and I am currently practicing running.</p>
           

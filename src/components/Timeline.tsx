@@ -23,7 +23,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">AI Software Engineer Intern</h3>
             <h4 className="vertical-timeline-element-subtitle">
               <a href="https://reactionalmusic.com/" target="_blank" rel="noopener noreferrer"style={{ color: '#5000ca' }}>
-              Reactional Music
+              Reactional Music, Sweden
               </a>
             </h4>
             <p>
@@ -39,7 +39,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">IT outsourcing intern</h3>
-            <h4 className="vertical-timeline-element-subtitle"style={{ color: '#5000ca' }}>NJEE info service</h4>
+            <h4 className="vertical-timeline-element-subtitle"style={{ color: '#5000ca' }}>NJEE info service, France</h4>
             <p>
               Deployment of a database management solution for the company, implementation of a dedicated virtual machine under the hypervisor Proxmox. 
             </p>
