@@ -44,8 +44,10 @@ const Expertise: React.FC<ExpertiseProps> = ({ mode }) => {
                             <li>Uncertainty in AI</li>
                             <li>Foundations of AI</li>
                             <li>Image Analysis and Computer Vision</li>
+                            <li>Computing Infrastructures</li>
                             <li>Software Engineering</li>
                             <li>Data Bases</li>
+                            <li>Advanced Computer Architecture</li>
 
                         </ul>
                     </p>
@@ -62,11 +64,13 @@ const Expertise: React.FC<ExpertiseProps> = ({ mode }) => {
                     <p>Major in computing and signal processing. Hundred percent english courses. <b>Artificial Intelligence and Big Data </b> Option.</p>
                     <p> Key subjects
                         <ul>
+                            <li>IA et big Data</li>
+                            <li>Machine Learning</li>
                             <li>Digital Signal Processing & Fourier Analysis</li>
-                            <li>Embedded Programming (C/C++)</li>
-                            <li>Electronic Systems & Control Theory</li>
+                            <li>Embedded Programming (C)</li>
+                            <li>Electronic Systems</li>
                             <li>Communications Systems</li>
-                            <li>Computer Vision & Machine Learning</li>
+                            <li>Computer Vision</li>
                         </ul>
                     </p>
                 </div>
