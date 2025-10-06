@@ -48,6 +48,8 @@ const Expertise: React.FC<ExpertiseProps> = ({ mode }) => {
                             <li>Software Engineering</li>
                             <li>Data Bases</li>
                             <li>Advanced Computer Architecture</li>
+                            <li>Mathematical Model and Method for Image Processing</li>
+                            <li>Cybersecurity</li>
 
                         </ul>
                     </p>
